@@ -11,8 +11,14 @@ export const AuthProvider = ({ children }) => {
   // Auto-fetch user data if token exists
   useEffect(() => {
     if (token) {
-      const storedUser = JSON.parse(localStorage.getItem("user"));
-      setUser(storedUser);
+      console.log("token", token);
+      try {
+        const storedUser = JSON.parse(localStorage.getItem("user"));
+        setUser(storedUser);
+      } catch (error) {
+        console.error("Invalid JSON in localStorage:", error);
+        localStorage.removeItem("user"); // Clear corrupted data
+      }
     }
   }, [token]);
 

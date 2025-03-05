@@ -5,7 +5,7 @@ const venueSchema = new mongoose.Schema(
     name: { type: String, required: true },
     location: { type: String, required: true },
     capacity: { type: Number, required: true },
-    price: { type: Number, required: true },
+    price: { type: String, required: true },
     images: [{ type: String }],
     description: { type: String },
     ratings: { type: Number, default: 0 },

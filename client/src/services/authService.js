@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "http://localhost:5000/api/auth" });
+const API = axios.create({ baseURL: "http://localhost:5001/api/auth" });
 
 // Register User
 export const registerUser = async (userData) => {
@@ -9,6 +9,7 @@ export const registerUser = async (userData) => {
       headers: {
         "Content-Type": "application/json",
       },
+      withCredentials: true,
     });
     return response.data;
   } catch (error) {
