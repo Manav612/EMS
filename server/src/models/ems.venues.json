@@ -1,0 +1,798 @@
+[{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c37"
+  },
+  "name": "Papillon Bistro & Bar",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/46b079f1-71aa-4b41-8959-81e6b3159fef~sc_310.210"
+  ],
+  "description": "The Papillon Bistro & Bar is a charming wedding venue with the atmosphere of a bustling old-time bistro located in the center of Midtown Manhattan, New York, NY. This venue focuses on creating an auth",
+  "ratings": 0
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c38"
+  },
+  "name": "Midtown Loft and Terrace",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/673e79a1-737a-4c0d-b93c-486c64681118~sc_310.210"
+  ],
+  "description": "Located in New York City, Midtown Loft & Terrace is a wedding venue where couples can swap vows against the backdrop of the Empire State Building. This elegant locale in Manhattan is an urban retreat",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c39"
+  },
+  "name": "Westbury Manor",
+  "location": "New York",
+  "capacity": "251-300 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/7ceda5fc-ca94-491a-877b-9d9edfd19996~sc_310.210"
+  ],
+  "description": "Congratulations!! We are happy to assist you in planning your special day.\nInquire about our winter thru spring 2025 discounted rates.\n\nBanquet office open daily, we look forward to seeing you.\n\nPleas",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c3a"
+  },
+  "name": "Sixty Pine Street",
+  "location": "New York",
+  "capacity": "251-300 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/90f44aad-66cd-421b-b755-63a66fe6371b~sc_310.210"
+  ],
+  "description": "Located in New York City, NY, Sixty Pine Street is the newest location by Masterpiece Caterers.  It replaced One Hanover Square after loosing the property during the pandemic.  Sixty Pine Street is a",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c3b"
+  },
+  "name": "City Cruises - New York",
+  "location": "New York",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/486671dc-f7d4-408e-b47e-9bef955d4441~sc_310.210"
+  ],
+  "description": "With the iconic New York, NY skyline as the backdrop, City Cruises - New York provides an unforgettable venue for weddings and other special events. Sail along the Hudson and East Rivers while you dan",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c3c"
+  },
+  "name": "Prince George Ballroom",
+  "location": "NEW YORK",
+  "capacity": "201-250 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/32d5217d-6a71-4dad-ae8e-b7757fbaa6a1~sc_310.210"
+  ],
+  "description": "Located in New York City, Prince George Ballroom is a historic wedding venue within easy reach of Madison Square Park. Known for its Neo-Renaissance details, the locale has been a notable landmark in",
+  "ratings": 4.8
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c3d"
+  },
+  "name": "LaKota Oaks",
+  "location": "Norwalk",
+  "capacity": "201-250 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/83eac2c9-9e0b-4eee-868e-b803e9945643~sc_310.210"
+  ],
+  "description": "A unique and timeless venue of style and class, we’ll make your wedding the best that you and your guests have ever attended with excellent food, service, and our personal attention to detail. Located",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c3e"
+  },
+  "name": "Ravel Events at The Ravel Hotel",
+  "location": "Long Island City",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/a4a318f9-f718-4ecf-95bd-fbbabbdb935a~sc_310.210"
+  ],
+  "description": "Located in the heart of Long Island City, NY, The Ravel Hotel stands as a beacon of luxury and elegance. Spanning ten floors, our hotel is intricately designed with rooms and event spaces that serve a",
+  "ratings": 4.7
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c3f"
+  },
+  "name": "The Box House Hotel",
+  "location": "Brooklyn",
+  "capacity": "251-300 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/bcaee4a8-e8bd-4647-ab80-f0dcb9017896~sc_310.210"
+  ],
+  "description": "The Box House Hotel is a rooftop wedding venue located in Brooklyn, NY. This urban upscale destination provides a sophisticated setting for special celebrations. Original factory details blend with mo",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c40"
+  },
+  "name": "Carton House by Peter Callahan",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/45cd6fe7-8a75-4b04-9077-c9f9b29674c0~sc_310.210"
+  ],
+  "description": "Carton House is a beautiful wedding venue in New York that sets the stage for a magical celebration with loved ones. The property offers a one-of-a-kind setting for your special day with a beautifully",
+  "ratings": 3
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c41"
+  },
+  "name": "Houston Hall",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/aaceb3e0-58cf-476e-b696-071bd80fcad4~sc_310.210"
+  ],
+  "description": "Houston Hall is a historic wedding and event space located in New York, NY. Offering a storied charm, a wealth of space, and a myriad of layouts, this stylish spot is an ideal setting for a contempora",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c42"
+  },
+  "name": "Renault Winery",
+  "location": "Egg Harbor City",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/3c3d5af0-c585-4579-a7d2-4e5c027546ed~sc_310.210"
+  ],
+  "description": "Renault Winery  is an elegant vineyard wedding venue located in Egg Harbor City, NJ. One of the oldest continuously operating vineyards in the United States, the property has been crafting fine wines",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c43"
+  },
+  "name": "Bear Brook Valley",
+  "location": "Newton",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/50410e9b-24ac-4ec2-a30d-10731fe275e8~sc_310.210"
+  ],
+  "description": "Welcome to Bear Brook Valley, a serene wedding venue in northern New Jersey that provides you and your partner an inclusive, stress-free wedding experience. This wedding venue hosts only one wedding p",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c44"
+  },
+  "name": "The View at The Battery",
+  "location": "New York",
+  "capacity": "251-300 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/f45d7bec-ff85-49e1-a574-05c040d9cd04~sc_310.210"
+  ],
+  "description": "The View at Battery Park is a wedding venue located in New York, New York. Located on the southern tip of Manhattan, this waterfront property features sweeping harbor views. Create wedding ceremonies",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c45"
+  },
+  "name": "Brooklyn Grange",
+  "location": "Brooklyn",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/769862ad-e122-40ad-8a72-9b7732e6fee2~sc_310.210"
+  ],
+  "description": "Pairing the dynamic setting of a working urban farm with the warmth and amenities of a world-class event venue, your Brooklyn Grange wedding will be an unforgettable experience—for both you and your g",
+  "ratings": 4.2
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c46"
+  },
+  "name": "Crossed Keys Estate",
+  "location": "Andover",
+  "capacity": "251-300 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/1d1cb70a-9161-4967-8abf-2deb7d2c816c~sc_310.210"
+  ],
+  "description": "Crossed Keys Estate is a scenic wedding venue situated one hour outside of New York City in Andover, NJ. This lush property is nestled on 30+ acres of gardens, meadows, and old buildings that pay homa",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c47"
+  },
+  "name": "620 Loft & Garden",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/52717ee6-d486-4640-845e-a0de5ac7383c~sc_310.210"
+  ],
+  "description": "Situated in New York, NY, 620 Loft & Garden is a unique rooftop wedding venue overlooking the luxurious Fifth Avenue. From here, couples and guests can feast their eyes on the dramatic cityscapes and",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c48"
+  },
+  "name": "Dobbin St",
+  "location": "Brooklyn",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/85d97299-183f-4554-a139-a819193b37ce~sc_310.210"
+  ],
+  "description": "One of Williamsburg’s brightest venues Dobbin St hosts weddings and events in Brooklyn, NY. This renovated warehouse space offers couples the chance to celebrate in style, supported by attentive staff",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c49"
+  },
+  "name": "Prospect Park Picnic House",
+  "location": "Brooklyn",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/becb45bf-df7b-4a6f-8295-bce2f7e5c8f2~sc_310.210"
+  ],
+  "description": "Tie the knot on Valentine’s Day in Brooklyn’s Backyard! At the Day of Love in Prospect Park, 50 couples will say “I Do” at the Prospect Park Picnic House - prospectpark.org/love\n\nThe Picnic House in P",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c4a"
+  },
+  "name": "ASPIRE at One World Observatory",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/4bb6b5bf-3cf6-4d4e-b19c-4a414ca3d4bc~sc_310.210"
+  ],
+  "description": "Aspire at One World Observatory is a contemporary wedding venue in New York, NY. Envision celebrating your dream wedding day at the top of the tallest building in the Western Hemisphere. \n\nSituated on",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c4b"
+  },
+  "name": "City Winery",
+  "location": "New York",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/d628efa6-5db6-4fe2-b644-a57c84b23da6~sc_310.210"
+  ],
+  "description": "City Winery is a unique facility that infuses a fully functioning winery with an intimate concert and event space. We offer food and wine classes and other programs, including hands-on wine blending w",
+  "ratings": 0
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c4c"
+  },
+  "name": "The Crescent Beach Club",
+  "location": "Bayville",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/72b79c21-16bf-4171-aad6-8b8a36e7b4cc~sc_310.210"
+  ],
+  "description": "The Crescent Beach Club is a breathtaking venue, providing a destination wedding without ever leaving New York. With our beautiful white sand beach, the magnificent blue waters of the Long Island Soun",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c4d"
+  },
+  "name": "The Harold Pratt House and Peterson Hall",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/b8cd6479-9b35-403a-848b-75dd42486b6f~sc_310.210"
+  ],
+  "description": "The Harold Pratt House was constructed in 1919 as one of New York's grand Park Avenue Mansions. The hidden gem of the Upper East Side - We are the perfect location to host a wedding, engagement party,",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c4e"
+  },
+  "name": "The Pier Sixty Collection",
+  "location": "New York",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/de5d03f8-e787-4be0-a6ad-8f0ac7971f6b~sc_310.210"
+  ],
+  "description": "Located within New York’s iconic Chelsea Piers, The Pier Sixty Collection offers three alluring waterfront venues — each with sweeping views — that are home to some of Manhattan’s most influential and",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c4f"
+  },
+  "name": "GH on the Park",
+  "location": "New York",
+  "capacity": "51-100 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/c83cb242-5dc1-42ee-b03d-79aa2ab82f40~sc_310.210"
+  ],
+  "description": "GH on the Park is a luxury mansion and wedding venue in Manhattan in New York, NY. Part of the GH Venues collection, this blend of historic property and contemporary amenities makes an elegant and ver",
+  "ratings": 4
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c50"
+  },
+  "name": "The Grandview",
+  "location": "POUGHKEEPSIE",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/1e57085b-b3e0-4aef-be9f-6a4224aa5ff3~sc_310.210"
+  ],
+  "description": "Based in Poughkeepsie, NY, The Grandview is a stunning venue for weddings and other special events.\n\nExperience world-class service, modern elegance, and unmatched views of the Hudson River, where you",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c51"
+  },
+  "name": "MyMoon Restaurant + Venue",
+  "location": "Brooklyn",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/b04366fb-ada9-4fd9-8647-703a991b0563~sc_310.210"
+  ],
+  "description": "A converted boiler room from Brooklyn's industrial past, MyMoon is a magical event venue in the heart of Williamsburg.  Since opening its doors in 2005, MyMoon has diligently worked to create memorabl",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c52"
+  },
+  "name": "3 West Club",
+  "location": "Tri-State Area,",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/6dc522ed-9e5b-4407-8320-95eb4ebac79f~sc_310.210"
+  ],
+  "description": "3 West Club is a wedding venue and hotel located in New York, NY. Situated amidst the splendor of Rockefeller Center and only minutes from Radio Music Hall, this historic mansion invites couples to en",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c53"
+  },
+  "name": "One if by Land, Two if by Sea",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/4a98b3d0-5667-426d-a3f7-c6c947f79f2b~sc_310.210"
+  ],
+  "description": "One if by Land, Two if by Sea is a romantic restaurant based in New York, NY, that hosts weddings and events. Known for its beautiful decor and classic menu offerings, it is a magical setting to host",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c54"
+  },
+  "name": "160 Central Park West",
+  "location": "NY, CT, NJ",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/3c3a57e3-e5fd-41f8-aa81-6a38378ac844~sc_310.210"
+  ],
+  "description": "160 Central Park West is a beautiful wedding venue in the heart of NYC, offering nearlyweds a breathtaking space to celebrate their milestone events. Just a stone's throw from Central Park, this histo",
+  "ratings": 0
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c55"
+  },
+  "name": "Whitby Castle at Rye Golf Club",
+  "location": "Rye",
+  "capacity": "201-250 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/8ed914a9-7051-4cd5-86b1-17311dfe5c55~sc_310.210"
+  ],
+  "description": "Whitby Castle is a timeless wedding venue based in Westchester County in Rye, NY. This turn-of-the-century castle sits magnificently on 126 acres and boasts a striking resemblance to the original Whit",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c56"
+  },
+  "name": "West Hills Country Club",
+  "location": "MIDDLETOWN",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/1e23cd5a-e638-405e-9f81-3287bbc876d4~sc_310.210"
+  ],
+  "description": "West Hills Country Club is a stunning wedding venue in Middletown, NY. Set on 200+ acres of manicured views, waterfalls, and a historic suspension bridge spanning the Wallkill River, West Hills Countr",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c57"
+  },
+  "name": "The Mansion at Oyster Bay",
+  "location": "Woodbury",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/7a97fa0f-3469-4bb8-9ec5-48be79a9375c~sc_310.210"
+  ],
+  "description": "Situated in Long Island, NY, The Mansion at Oyster Bay is a historic wedding venue brimming with luxury and refinement. Set against the backdrop of 120 acres of greenery, it combines timeless charm wi",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c58"
+  },
+  "name": "Museum of the City of New York",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/a0eaa8c4-a565-4200-b644-fb7470817067~sc_310.210"
+  ],
+  "description": "Celebrating its 100th year on Fifth Avenue’s iconic Museum Mile, the Museum of the City of New York is the perfect place for special events—weddings, bar/bat mitzvahs, corporate dinners, birthdays, gr",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c59"
+  },
+  "name": "Ace Hotel Brooklyn",
+  "location": "Brooklyn",
+  "capacity": "201-250 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/82d75977-558f-474d-b7f2-7fc44b5e3665~sc_310.210"
+  ],
+  "description": "Ace Hotel Brooklyn is an upscale hotel welcoming weddings, newly opened in Summer 2021. You and your guest are invited to celebrate in upscale style surrounded by works by local artists in a creative",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c5a"
+  },
+  "name": "The William Vale",
+  "location": "Brooklyn",
+  "capacity": "201-250 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/0666294c-1948-4635-9090-949678705650~sc_310.210"
+  ],
+  "description": "The William Vale, located in Brooklyn’s Williamsburg neighborhood,\nrests along the East River’s waterfront.\nThis soaring 23 story hotel features 183 guest rooms and suites, each with their own balcony",
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c5b"
+  },
+  "name": "Bourne Mansion",
+  "location": "Oakdale",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/3a0f6418-f927-4bce-82b0-54d07a9d5b5c~sc_310.210"
+  ],
+  "description": "Situated in Oakdale, NY, Bourne Mansion is a turn-of-the-century wedding venue offering a majestic setting for truly remarkable events. Located 90 minutes from New York City, this historical landmark",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c5c"
+  },
+  "name": "Maritime Parc",
+  "location": "Jersey City",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/932b74fb-d883-4a76-b47f-7d8e52f826d9~sc_310.210"
+  ],
+  "description": "Maritime Parc is a contemporary wedding venue located at the marina in Liberty State Park, Jersey City, NJ. Boasting panoramic views of the New York City Skyline, Statue of Liberty and Ellis Island, t",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c5d"
+  },
+  "name": "Glen Island Harbour Club",
+  "location": "New Rochelle",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/95558430-6498-4561-80d9-8b333800168e~sc_310.210"
+  ],
+  "description": "A truly spectacular place...surrounded by gently breaking waves, lush park grounds on a secluded island, breathtaking sunsets, a storybook chapel and dramatic views of the New York skyline bridges. Yo",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c5e"
+  },
+  "name": "Astoria World Manor",
+  "location": "Astoria",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/422d5e33-7837-4e65-ab70-cae8879d1604~sc_310.210"
+  ],
+  "description": "Astoria World Manor stands as a beacon of elegance and sophistication in the heart of Astoria, Queens, offering a venue that transcends the ordinary to create extraordinary memories. Nestled in the vi",
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c5f"
+  },
+  "name": "Sunset Terrace at Chelsea Piers",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/80b98ccc-34b6-46bd-b932-68cb1fd0bdd8~sc_310.210"
+  ],
+  "description": "Sunset Terrace at Chelsea Piers is an urban wedding venue located in New York City, NY. If you're seeking an intimate space to exchange your vows, this waterfront setting offers a breathtaking city sk",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c60"
+  },
+  "name": "The Wall Street Hotel",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/bb0029e2-0a95-4cc0-899b-3a9a9fa1a454~sc_310.210"
+  ],
+  "description": "The Wall Street Hotel is an elegant wedding venue in the heart of New York City, NY. Embracing charm and culture, the hotel is a warm and vibrant oasis. The Wall Street Hotel is an eco-friendly venue",
+  "ratings": 0
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c61"
+  },
+  "name": "Little Ways",
+  "location": "Serving SoHo and all Manhattan",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/06ee2a32-9d49-4c96-a025-a7e10fa590d0~sc_310.210"
+  ],
+  "description": "Little Ways is a wedding venue based in New York, New York. This elegant restaurant and wedding venue is perfect for intimate and chic celebrations in a stylish townhouse setting. \n\nLittle Ways is a t",
+  "ratings": 3
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c62"
+  },
+  "name": "VESPER",
+  "location": "Brooklyn",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/3534594e-a0a0-420b-a3cd-4a463056fda7~sc_310.210"
+  ],
+  "description": "Vesper is a sophisticated wedding venue in Brooklyn, NY. This elegant event space opened in 2024 and sits on the 4th floor of 25 Kent. It offers beautiful views of the water with the New York skyline",
+  "ratings": 3
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c63"
+  },
+  "name": "Manhattan Center",
+  "location": "New York",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/c8edeffc-239e-453f-b8a0-1eacceb56112~sc_310.210"
+  ],
+  "description": "Manhattan Center is a unique wedding venue in the heart of Midtown Manhattan, NY. This iconic property stands as a beacon of world-class entertainment, elegance, and innovation. Home to the renowned H",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c64"
+  },
+  "name": "Virgin Hotels New York",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/5a27aa56-5df0-497e-a425-b6b80910e718~sc_310.210"
+  ],
+  "description": "Atop the Virgin Hotels, a hotel wedding venue in New York City, sits a one-of-a-kind event space with panoramic views of the NoMad district and beyond. Couples can make the most of the 38th floor, whi",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c65"
+  },
+  "name": "Hunt & Fish Club NYC",
+  "location": "New York",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/50664ba4-a847-41a5-ae51-3d802bb46fae~sc_310.210"
+  ],
+  "description": "Hunt & Fish Club NYC is a fine dining restaurant that provides a sophisticated setting for your New York wedding celebrations. Whether you’re looking to host your reception or pre-wedding festivities,",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c66"
+  },
+  "name": "Royalton Park Avenue",
+  "location": "New York",
+  "capacity": "51-100 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/e0251c30-030b-4ea7-8e75-b3edbe7cb3d5~sc_310.210"
+  ],
+  "description": "Celebrate your love story in style and luxury at Royalton Park Avenue, a lavish hotel venue in New York City for weddings and nuptial events. A masterful blend of upscale, trendy, and residential, it",
+  "ratings": 0
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c67"
+  },
+  "name": "Cloud 9 Yacht Charters",
+  "location": "tri state ny",
+  "capacity": "51-100 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/eeee1e4c-9185-49a0-9b1e-f64e816a52cc~sc_310.210"
+  ],
+  "description": "Located in New York City, Cloud 9 Yacht Charters is a boat venue that can host weddings and other celebratory events. Offering an expansive view of the New York harbor, this luxury yacht charter prese",
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c68"
+  },
+  "name": "HollyHedge Estate",
+  "location": "NEW HOPE",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/e3723496-648c-443a-a3f7-2fade818d0ca~sc_310.210"
+  ],
+  "description": "HollyHedge Estate is a historic wedding venue located in New Hope, PA. This stunning 18th-century mansion provides couples with a unique blend of timeless rustic charm and sophisticated elegance. From",
+  "ratings": 4.8
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c69"
+  },
+  "name": "Marina del Rey",
+  "location": "Throgs Neck",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/91749824-0ad7-4c8a-a32c-ec0fc69f0b6d~sc_310.210"
+  ],
+  "description": "Marina Del Rey is a waterfront wedding venue majestically located in Throgs Neck, NY. This elegant estate offers signature indoor and outdoor event spaces with breathtaking views of Long Island Sound",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c6a"
+  },
+  "name": "City Winery New York City",
+  "location": "New York",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/ee102eed-81d1-49b9-9fd0-aef2f60856e5~sc_310.210"
+  ],
+  "description": "City Winery New York is a stylish wedding venue located just steps from Chelsea Market and The High Line in New York City. Our new waterfront venue embodies the urban winery feel first pioneered at ou",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c6b"
+  },
+  "name": "Madam Mikette's",
+  "location": "New York",
+  "capacity": "201-250 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/8e09aa39-67bb-40b1-8bd6-bbc03a6cfbd2~sc_310.210"
+  ],
+  "description": "Madam Mikette’s is an upscale American brasserie and wedding venue in the heart of Midtown East New York, NY. Its unique interiors emulate the vintage glamour of the 1920s and offer an elegant backdro",
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c6c"
+  },
+  "name": "JW Marriott Essex House New York",
+  "location": "New York",
+  "capacity": "151-200 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/f9bf12c1-82ed-483e-8bb5-1e0ade69e6f4~sc_310.210"
+  ],
+  "description": "JW Marriott Essex House New York is a hotel wedding venue overlooking Central Park and the iconic New York, NY skyline. This historic Manhattan setting welcomes you to celebrate your love in the lap o",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c6d"
+  },
+  "name": "Heritage Club at Bethpage",
+  "location": "Farmingdale",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/fd4d20ef-2fd9-42bf-a3b9-8d064213f2e7~sc_310.210"
+  ],
+  "description": "The Heritage Club at Bethpage is an elegant wedding venue in Farmingdale, NY. This country club features a variety of settings for you to host your big day, from the emerald green fields to the breath",
+  "ratings": 5
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c6e"
+  },
+  "name": "Hotel Eventi",
+  "location": "NY",
+  "capacity": "101-150 Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/6119f880-1b91-48d8-930e-90d912716947~sc_310.210"
+  ],
+  "description": "Located in New York City, Hotel Eventi is a vibrant and stylish wedding venue. This hotel invites guests to dive into the energetic ambience that is found throughout its interiors. With a thoughtful d",
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "67c1677b65cad61145f40c6f"
+  },
+  "name": "The Legacy Castle",
+  "location": "Pompton Plains",
+  "capacity": "300+ Guests",
+  "price": "$1000",
+  "images": [
+    "https://media-api.xogrp.com/images/2cd53338-2042-41c0-8d8c-64c345d0b773~sc_310.210"
+  ],
+  "description": "The Legacy Castle is a wedding reception venue located in Pompton Plains, NJ. This sophisticated event space would be ideal for couples who want a fairytale experience on their special day. With beaut",
+  "ratings": 4.9
+}]

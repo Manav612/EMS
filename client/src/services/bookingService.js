@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5001/api/bookings";
+// const API_URL = "http://localhost:5001/api/bookings";
+const API_URL = "https://ems-n0yt.onrender.com/api/bookings";
 
 export const getUserBookings = async () => {
   try {
