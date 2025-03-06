@@ -23,57 +23,77 @@ const Dashboard = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#A67B5B] to-[#5C4033] text-[#FAF9F6] flex flex-col items-center p-8">
+    <div className="min-h-screen bg-gradient-to-br from-[#A67B5B] to-[#5C4033] text-[#FAF9F6] flex flex-col items-center py-12 px-6">
       {/* Welcome Section */}
-      <div className="bg-[#FAF9F6] text-[#5C4033] rounded-2xl shadow-xl p-6 md:p-10 w-full max-w-3xl text-center">
-        <h1 className="text-3xl md:text-4xl font-extrabold">
-          Welcome, {user?.name}!
+      <div className="bg-[#FAF9F6] text-[#5C4033] rounded-2xl shadow-2xl p-8 md:p-12 w-full max-w-4xl text-center transition-transform duration-300 hover:scale-105">
+        <h1 className="text-4xl md:text-5xl font-extrabold">
+          Welcome, {user?.name}! 🎉
         </h1>
-        <p className="text-lg opacity-80 mt-2">
-          Manage your bookings and account here.
+        <p className="text-lg opacity-80 mt-3">
+          Manage your bookings, profile, and account settings in one place.
         </p>
       </div>
 
-      {/* My Bookings Section */}
-      <section className="mt-8 w-full max-w-3xl">
-        <h2 className="text-2xl font-semibold text-center mb-4">My Bookings</h2>
+      {/* Bookings Section */}
+      <section className="mt-12 w-full max-w-4xl">
+        <h2 className="text-3xl font-bold text-center mb-6">📅 My Bookings</h2>
         {bookings.length > 0 ? (
-          <div className="space-y-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {bookings.map((booking) => (
               <div
                 key={booking._id}
-                className="bg-[#FAF9F6] text-[#5C4033] p-5 rounded-xl shadow-lg"
+                className="bg-[#FAF9F6] text-[#5C4033] p-6 rounded-xl shadow-lg transition-transform duration-300 hover:scale-105"
               >
                 <h3 className="text-xl font-bold">{booking.venue.name}</h3>
-                <p className="opacity-80">
-                  Date: {new Date(booking.eventDate).toDateString()}
+                <p className="opacity-80 mt-1">📍 {booking.venue.location}</p>
+                <p className="mt-3 text-lg opacity-90">
+                  <strong>📆 Event Date:</strong>{" "}
+                  {new Date(booking.eventDate).toDateString()}
                 </p>
-                <p className="opacity-80">Status: {booking.status}</p>
+                <p className="mt-2 text-lg">
+                  <strong>🔖 Status:</strong>{" "}
+                  <span
+                    className={`font-semibold ${
+                      booking.status === "pending"
+                        ? "text-orange-500"
+                        : "text-green-500"
+                    }`}
+                  >
+                    {booking.status}
+                  </span>
+                </p>
               </div>
             ))}
           </div>
         ) : (
           <p className="text-center text-lg opacity-80">
-            You have no bookings yet.
+            No bookings found. <br />
+            <Link to="/venues" className="underline font-semibold">
+              Browse Venues →
+            </Link>
           </p>
         )}
       </section>
 
       {/* Profile Section */}
-      <section className="mt-8 w-full max-w-3xl bg-[#FAF9F6] text-[#5C4033] p-6 rounded-2xl shadow-lg">
-        <h2 className="text-2xl font-semibold text-center mb-4">My Profile</h2>
-        <p className="text-lg">
-          Name: <span className="font-semibold">{user?.name}</span>
-        </p>
-        <p className="text-lg">
-          Email: <span className="font-semibold">{user?.email}</span>
-        </p>
+      <section className="mt-12 w-full max-w-4xl bg-[#FAF9F6] text-[#5C4033] p-8 rounded-2xl shadow-xl">
+        <h2 className="text-3xl font-bold text-center mb-6">👤 My Profile</h2>
+        <div className="text-lg space-y-3">
+          <p>
+            <strong>Name:</strong>{" "}
+            <span className="font-semibold">{user?.name}</span>
+          </p>
+          <p>
+            <strong>Email:</strong>{" "}
+            <span className="font-semibold">{user?.email}</span>
+          </p>
+        </div>
       </section>
 
       {/* Logout Button */}
       <button
         onClick={logout}
-        className="mt-8 bg-[#D2B48C] text-[#5C4033] px-6 py-3 rounded-lg font-semibold text-lg shadow-lg hover:bg-[#B29575] transition"
+        className="mt-12 bg-[#D2B48C] text-[#5C4033] px-8 py-3 rounded-lg font-semibold text-lg shadow-md hover:bg-[#B29575] transition-transform duration-200 hover:scale-105"
       >
         Logout
       </button>
