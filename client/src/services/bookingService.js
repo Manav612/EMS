@@ -9,8 +9,6 @@ export const getUserBookings = async () => {
     const response = await axios.get(`${API_URL}/my-bookings`, {
       headers: { Authorization: `Bearer ${token}` },
     });
-    console.log("-------  bookings -------", response.data);
-
     return response.data;
   } catch (error) {
     console.error("Error fetching bookings:", error);

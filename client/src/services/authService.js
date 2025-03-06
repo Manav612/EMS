@@ -1,5 +1,4 @@
 import axios from "axios";
-
 // const API = axios.create({ baseURL: "http://localhost:5001/api/auth" });
 const API = axios.create({ baseURL: "https://ems-n0yt.onrender.com/api/auth" });
 
