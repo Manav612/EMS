@@ -14,7 +14,7 @@ const app = express();
 const server = http.createServer(app); // Create an HTTP server
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:5173", // Your frontend URL
+    origin: ["http://localhost:5173", "https://ems-eight-xi.vercel.app"], // Your frontend URL
     methods: ["GET", "POST"],
   },
 });
@@ -28,7 +28,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173", "https://ems-eight-xi.vercel.app"],
     credentials: true,
   })
 );
