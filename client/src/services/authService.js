@@ -1,14 +1,41 @@
-import axios from "axios";
-// const API = axios.create({ baseURL: "http://localhost:5001/api/auth" });
-const API = axios.create({ baseURL: "https://ems-n0yt.onrender.com/api/auth" });
+// import axios from "axios";
 
-// Register User
+// const API = "https://ems-n0yt.onrender.com/api/auth";
+
+// // Register User
+// export const registerUser = async (userData) => {
+//   try {
+//     const response = await axios.post(`${API}/register`, userData, {
+//       headers: {
+//         "Content-Type": "application/json",
+//       },
+//       withCredentials: true,
+//     });
+//     return response.data;
+//   } catch (error) {
+//     throw error.response ? error.response.data : error;
+//   }
+// };
+
+// // Login User
+// export const loginUser = async (userData) => {
+//   try {
+//     const response = await axios.post(`${API}/login`, userData);
+//     return response.data;
+//   } catch (error) {
+//     throw error.response ? error.response.data : error;
+//   }
+// };
+
+import axios from "axios";
+import CONFIG from "../config";
+
+const API = `${CONFIG.API_BASE_URL}/api/auth`;
+
 export const registerUser = async (userData) => {
   try {
-    const response = await API.post("/register", userData, {
-      headers: {
-        "Content-Type": "application/json",
-      },
+    const response = await axios.post(`${API}/register`, userData, {
+      headers: { "Content-Type": "application/json" },
       withCredentials: true,
     });
     return response.data;
@@ -17,10 +44,9 @@ export const registerUser = async (userData) => {
   }
 };
 
-// Login User
 export const loginUser = async (userData) => {
   try {
-    const response = await API.post("/login", userData);
+    const response = await axios.post(`${API}/login`, userData);
     return response.data;
   } catch (error) {
     throw error.response ? error.response.data : error;
